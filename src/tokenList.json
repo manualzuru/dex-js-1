@@ -203,6 +203,19 @@
     "rinkeby_faucet": null
   },
   {
+    "id": 20,
+    "name": "DIA Data",
+    "symbol": "DIA",
+    "decimals": 18,
+    "addressByNetwork": {
+      "1": "0x84cA8bc7997272c7CfB4D0Cd3D55cd942B3c9419",
+			"4": "0x5cae2e55002469d0676af7e8495150b20f28ee1e"
+    },
+    "website": "https://panvala.com",
+    "description": "Allows to subsidize public goods",
+    "rinkeby_faucet": null
+  },
+  {
     "id": 0,
     "name": "OWL",
     "symbol": "OWL",

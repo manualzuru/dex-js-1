@@ -1,14 +1,14 @@
 {
-  "name": "@gnosis.pm/dex-js",
+  "name": "@diadata.org/dex-js-1",
   "version": "0.4.1",
   "description": "Gnosis Protocol JS integration: utils, contracts and other goodies",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/gnosis/dex-js/issues"
+    "url": "https://github.com/diadata-org/dex-js-1/issues"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/gnosis/dex-js.git"
+    "url": "git+https://github.com/diadata-org/dex-js-1.git"
   },
   "scripts": {
     "build": "npm run build:commonjs && npm run build:esm",
