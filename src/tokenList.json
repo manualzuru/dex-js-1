@@ -204,7 +204,7 @@
   },
   {
     "id": 20,
-    "name": "DIA Data",
+    "name": "DIA Token",
     "symbol": "DIA",
     "decimals": 18,
     "addressByNetwork": {
